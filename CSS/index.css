@@ -146,7 +146,7 @@ body{
 .content-menu ul li{
     display: flex;
     color: rgb(40, 185, 243);
-    font-size: 14px;
+    font-size: 18px;
     flex-direction: column;
     align-items: center;
     cursor: pointer;
