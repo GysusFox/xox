@@ -20,7 +20,7 @@ body{
     flex-direction: column;
     background-color: rgb(255, 255, 255);
     background: url(../IMG/BACKGROUND.png);
-    background-size: contain;
+    background-size: 500px;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
