@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83c2bdf9.css",
+    "main.js": "/static/js/main.4a6052b0.js",
+    "static/media/BACKGROUND2.png": "/static/media/BACKGROUND2.632bd85a1937d25c340b.png",
+    "static/media/BACKGROUND.png": "/static/media/BACKGROUND.0634c4e7fcf09c2c3f28.png",
+    "static/media/fiesta.jpg": "/static/media/fiesta.addcae067a2d57a10480.jpg",
+    "static/media/marco.jpg": "/static/media/marco.aef3be7ce8fe92cc51c3.jpg",
+    "static/media/cepita.png": "/static/media/cepita.cc34e180da072ab468be.png",
+    "static/media/fernet.png": "/static/media/fernet.6aef59862b50ab23e95a.png",
+    "static/media/MENU.png": "/static/media/MENU.248873b34198b48537e4.png",
+    "static/media/chandon.png": "/static/media/chandon.47a2a32fc64750d1442a.png",
+    "static/media/XOX.png": "/static/media/XOX.c0d6a4e15765ae0900ed.png",
+    "static/media/MANCHA-NARANJA.png": "/static/media/MANCHA-NARANJA.b0da7d262f72cb583b67.png",
+    "static/media/smirnoff.png": "/static/media/smirnoff.e1458a5efa04757d7789.png",
+    "static/media/manchaVerde.png": "/static/media/manchaVerde.e977463218401d385564.png",
+    "static/media/speed.png": "/static/media/speed.2057e7497b53d10df85c.png",
+    "static/media/pioneer.png": "/static/media/pioneer.7c48ac677087c6d77d38.png",
+    "static/media/corona.png": "/static/media/corona.425d740f23bbe579cdce.png",
+    "index.html": "/index.html",
+    "main.83c2bdf9.css.map": "/static/css/main.83c2bdf9.css.map",
+    "main.4a6052b0.js.map": "/static/js/main.4a6052b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c2bdf9.css",
+    "static/js/main.4a6052b0.js"
+  ]
+}
